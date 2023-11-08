@@ -6,13 +6,14 @@ Bem-vindo ao repositório do projeto "Negociações" desenvolvido como parte do 
 
 O projeto "Negociações" está dividido em várias partes, cada uma correspondendo a um curso específico na plataforma Alura. Neste momento, o projeto se encontra na primeira parte de seu desenvolvimento. Durante os cursos subsequentes, iremos expandir e aprimorar a funcionalidade da aplicação.
 
-## Funcionalidades Atuais
+## Funcionalidades Atuais (Atualizado 08/11/2023)
 
 Neste estágio inicial, o projeto possui as seguintes funcionalidades:
 
 - Registro de negociações, incluindo data, quantidade e valor.
-- Listagem das negociações registradas.
-- Cálculo do volume total de negociações registradas.
+- Tabela exibindo data, quantidade e valor. 
+- Mensagem caso dia da negociação seja inválido ou válido.
+
 
 ## Pré-requisitos
 
